@@ -1,0 +1,25 @@
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 75%;
+}
+
+
+
+
+
+a{
+    color: black;
+    margin-left: 5px;
+}
+.lineap{
+    display: inline;
+}
+.centrar{
+    margin-top: 10%;
+}
+.spreenlogo{
+    margin-top: 10px;
+    border-radius: 50%;
+    height: 100px;
+}
